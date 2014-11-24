@@ -1,0 +1,6 @@
+C:\Users\Fredrik\Desktop\Laborationer\1DV402\1DV402_fl222hr\NastStorsta\NastStorsta\bin\Debug\NastStorsta.exe.config
+C:\Users\Fredrik\Desktop\Laborationer\1DV402\1DV402_fl222hr\NastStorsta\NastStorsta\bin\Debug\NastStorsta.exe
+C:\Users\Fredrik\Desktop\Laborationer\1DV402\1DV402_fl222hr\NastStorsta\NastStorsta\bin\Debug\NastStorsta.pdb
+C:\Users\Fredrik\Desktop\Laborationer\1DV402\1DV402_fl222hr\NastStorsta\NastStorsta\obj\Debug\NastStorsta.csprojResolveAssemblyReference.cache
+C:\Users\Fredrik\Desktop\Laborationer\1DV402\1DV402_fl222hr\NastStorsta\NastStorsta\obj\Debug\NastStorsta.exe
+C:\Users\Fredrik\Desktop\Laborationer\1DV402\1DV402_fl222hr\NastStorsta\NastStorsta\obj\Debug\NastStorsta.pdb

@@ -1,0 +1,6 @@
+C:\Users\Fredrik\Desktop\Laborationer\1DV402\1DV402_fl222hr\RaknaSiffror\RaknaSiffror\bin\Debug\RaknaSiffror.exe.config
+C:\Users\Fredrik\Desktop\Laborationer\1DV402\1DV402_fl222hr\RaknaSiffror\RaknaSiffror\bin\Debug\RaknaSiffror.exe
+C:\Users\Fredrik\Desktop\Laborationer\1DV402\1DV402_fl222hr\RaknaSiffror\RaknaSiffror\bin\Debug\RaknaSiffror.pdb
+C:\Users\Fredrik\Desktop\Laborationer\1DV402\1DV402_fl222hr\RaknaSiffror\RaknaSiffror\obj\Debug\RaknaSiffror.csprojResolveAssemblyReference.cache
+C:\Users\Fredrik\Desktop\Laborationer\1DV402\1DV402_fl222hr\RaknaSiffror\RaknaSiffror\obj\Debug\RaknaSiffror.exe
+C:\Users\Fredrik\Desktop\Laborationer\1DV402\1DV402_fl222hr\RaknaSiffror\RaknaSiffror\obj\Debug\RaknaSiffror.pdb

@@ -1,0 +1,6 @@
+C:\Users\Fredrik\Desktop\Laborationer\1DV402\1DV402_fl222hr\Fraction\Fraction\bin\Debug\Fraction.exe.config
+C:\Users\Fredrik\Desktop\Laborationer\1DV402\1DV402_fl222hr\Fraction\Fraction\bin\Debug\Fraction.exe
+C:\Users\Fredrik\Desktop\Laborationer\1DV402\1DV402_fl222hr\Fraction\Fraction\bin\Debug\Fraction.pdb
+C:\Users\Fredrik\Desktop\Laborationer\1DV402\1DV402_fl222hr\Fraction\Fraction\obj\Debug\Fraction.csprojResolveAssemblyReference.cache
+C:\Users\Fredrik\Desktop\Laborationer\1DV402\1DV402_fl222hr\Fraction\Fraction\obj\Debug\Fraction.exe
+C:\Users\Fredrik\Desktop\Laborationer\1DV402\1DV402_fl222hr\Fraction\Fraction\obj\Debug\Fraction.pdb
